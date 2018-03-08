@@ -14,6 +14,11 @@
   /* border: 5px solid blue; */
 }
 
+.box {
+  border-radius: 0.5em;
+  box-sizing: border-box;
+    }
+
   p {
     font-family: sans-serif;
     color: white;
