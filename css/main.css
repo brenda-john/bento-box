@@ -9,12 +9,63 @@
     font-size: 3em;
     font-weight: bold;
   }
-  .box {
+
+  .bred {
     width: 20%;
     height: 10em;
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 5px solid tan;
-    background-color: lightblue;
+    border: 5px solid darkred;
+    background-color: red;
+  }
+
+  .borange {
+    width: 20%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid darkorange;
+    background-color: orange;
+  }
+
+  .byellow {
+    width: 20%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid goldenrod;
+    background-color: gold;
+  }
+
+  .bgreen {
+    width: 20%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid darkgreen;
+    background-color: green;
+  }
+
+  .bblue {
+    width: 20%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid darkblue;
+    background-color: blue;
+  }
+
+  .bviolet {
+    width: 20%;
+    height: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid purple;
+    background-color: darkviolet;
   }
